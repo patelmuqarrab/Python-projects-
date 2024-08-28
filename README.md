@@ -1,2 +1,3 @@
 # Python-projects-
-This repository contains some basic and intermediate python projects 
+This repository contains python projects 
+You are welcome to read, use, or admire them 😊
