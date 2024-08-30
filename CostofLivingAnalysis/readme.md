@@ -18,7 +18,7 @@ Creates informative visualizations including:
 
 -Pairplot to explore relationships between different cost variables.
 
-## Data Source:
+## Data Source: https://www.kaggle.com/datasets/myrios/cost-of-living-index-by-country-by-number-2024
 
 ## Conclusion:
 
