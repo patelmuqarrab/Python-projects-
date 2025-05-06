@@ -1,5 +1,8 @@
 # Retail Analytics Case Study: Chip Category Customer Segmentation Analysis
 
+[Kaggle Link](https://www.kaggle.com/code/patelmuqarrab/retail-analytics-case-study/)
+
+
 ## Executive Summary
 This case study examines purchasing patterns in the chip category across different customer segments for a retail chain. Using transaction data and customer loyalty information, we analyzed how different demographic groups purchase chips, revealing key insights about pricing sensitivity, package size preferences, and brand loyalty. The analysis identified several high-value customer segments and opportunities for targeted marketing strategies to drive category growth.
 
